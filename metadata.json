@@ -1,0 +1,6 @@
+{
+  "name": "TimeLeft",
+  "description": "A dark-themed productivity app with countdowns, task management, focus timer, and stats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
